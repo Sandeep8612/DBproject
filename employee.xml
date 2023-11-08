@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<employee>
+  <record>
+    <EmpID>301</EmpID>
+    <Name>Donald Trumph</Name>
+    <Role>Architect</Role>
+    <Grade>1</Grade>
+  </record>
+  <record>
+    <EmpID>302</EmpID>
+    <Name>Barack Obama</Name>
+    <Role>Construction Manager</Role>
+    <Grade>2</Grade>
+  </record>
+  <record>
+    <EmpID>303</EmpID>
+    <Name>George Bush</Name>
+    <Role>Sales Representative</Role>
+    <Grade>3</Grade>
+  </record>
+</employee>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<material>
+  <record>
+    <MatID>201</MatID>
+    <Name>Bamboo</Name>
+    <QuantityAvailable>500</QuantityAvailable>
+  </record>
+  <record>
+    <MatID>202</MatID>
+    <Name>Recycled Aluminum</Name>
+    <QuantityAvailable>300</QuantityAvailable>
+  </record>
+  <record>
+    <MatID>203</MatID>
+    <Name>Teakwood</Name>
+    <QuantityAvailable>150</QuantityAvailable>
+  </record>
+</material>

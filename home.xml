@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<home>
+  <record>
+    <HomeID>1</HomeID>
+    <Size>2500.5</Size>
+    <EcoCert>True</EcoCert>
+  </record>
+  <record>
+    <HomeID>2</HomeID>
+    <Size>3200.0</Size>
+    <EcoCert>False</EcoCert>
+  </record>
+  <record>
+    <HomeID>3</HomeID>
+    <Size>2800.75</Size>
+    <EcoCert>True</EcoCert>
+  </record>
+</home>

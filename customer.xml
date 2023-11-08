@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<customer>
+  <record>
+    <CustID>101</CustID>
+    <Email>viratkohli@example.com</Email>
+    <Purchases>2</Purchases>
+  </record>
+  <record>
+    <CustID>102</CustID>
+    <Email>chandlerbing@example.com</Email>
+    <Purchases>3</Purchases>
+  </record>
+  <record>
+    <CustID>103</CustID>
+    <Email>leonelmessi@example.com</Email>
+    <Purchases>1</Purchases>
+  </record>
+</customer>

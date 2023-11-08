@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<supplier>
+  <record>
+    <SuppID>401</SuppID>
+    <Name>Metal Revive Industries</Name>
+    <MaterialType>Metal</MaterialType>
+    <ItemsSupplied>5</ItemsSupplied>
+  </record>
+  <record>
+    <SuppID>402</SuppID>
+    <Name>GreenStalk Bamboo Suppliers</Name>
+    <MaterialType>Bamboo</MaterialType>
+    <ItemsSupplied>2</ItemsSupplied>
+  </record>
+  <record>
+    <SuppID>403</SuppID>
+    <Name>BuildRight Cement Works</Name>
+    <MaterialType>Cement</MaterialType>
+    <ItemsSupplied>4</ItemsSupplied>
+  </record>
+</supplier>
